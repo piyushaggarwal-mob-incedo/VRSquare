@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRSquare", "VRSquare.csproj", "{819133AA-BC7F-629B-9B75-1B6F931D5A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRSquare.Editor", "VRSquare.Editor.csproj", "{74D7EB84-E636-E0DD-67CA-BAA83D6C07A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819133AA-BC7F-629B-9B75-1B6F931D5A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819133AA-BC7F-629B-9B75-1B6F931D5A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819133AA-BC7F-629B-9B75-1B6F931D5A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819133AA-BC7F-629B-9B75-1B6F931D5A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D7EB84-E636-E0DD-67CA-BAA83D6C07A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D7EB84-E636-E0DD-67CA-BAA83D6C07A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D7EB84-E636-E0DD-67CA-BAA83D6C07A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D7EB84-E636-E0DD-67CA-BAA83D6C07A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
