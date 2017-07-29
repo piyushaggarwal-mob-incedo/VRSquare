@@ -192,7 +192,6 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrMathHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
-    <Compile Include="Assets\TestPlugin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
@@ -211,16 +210,7 @@
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
     <None Include="Assets\Plugins\Android\AndroidManifest-Cardboard.xml" />
     <None Include="Assets\Plugins\Android\AndroidManifest-Daydream.xml" />
-    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Plugins\Android\proguard-gvr.txt" />
-    <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Google.Apis.Auth.PlatformServices.xml" />
-    <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Google.Apis.Auth.xml" />
-    <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Google.Apis.Core.xml" />
-    <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Google.Protobuf.xml" />
-    <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Grpc.Auth.xml" />
-    <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Grpc.Core.xml" />
-    <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Newtonsoft.Json.xml" />
-    <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\System.Interactive.Async.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -131,7 +131,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
 64e53bc128400f563a86ade43816f1c3 Assembly-CSharp.dll:.FloatTile
 3cdbcbe3eecc7b2618bb53f62d0d1466 Assembly-CSharp.dll:.PagedScrollRect
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.TestPlugin
 894f9b6318663e18d32dfc01c3816ec3 Assembly-CSharp.dll:.GvrAllEventsTrigger
 8dcc2f1f2300fb8d73cea378ddc8fcc8 Assembly-CSharp.dll:.ChildrenPageProvider
 82c4df0703ee0c74fec7eda7f1754686 Assembly-CSharp.dll:.GvrAudioListener
